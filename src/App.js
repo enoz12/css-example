@@ -11,6 +11,7 @@ function App() {
       <Button2 />
       <StyledComponent />
       <TailwindComponent />
+      <TailwindComponent />
     </>
   );
 }
